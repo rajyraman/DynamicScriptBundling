@@ -4,4 +4,4 @@ This is a solution with 2 entities and a plugin, to enable script minification a
 # Third Party Code
 This solution uses [JSMin.net](https://github.com/Taritsyn/JSMin.NET) to minify script files.
 
-Please refer to my post on this http://nycrmdev.blogspot.com.au/2015/05/form-script-bundling-and-minification.html
+Please refer to my post on this http://dreamingincrm.com/2015/05/25/leverage-actions-to-bundle-and-minify-form-scripts/
